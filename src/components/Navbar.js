@@ -30,7 +30,7 @@ function Navbar({ homeRef, skillsRef, projectsRef, contactRef }) {
     <nav className="nav">
       <div className="navbar-container">
         <a href="#home" className="nav-logo" onClick={() => scrollToSection(homeRef.current)}>
-          Sam-Wiz
+          Srikrrishn
         </a>
 
         <div className="mobile-icon" onClick={() => setIsOpen(!isOpen)}>
