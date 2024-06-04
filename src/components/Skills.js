@@ -5,7 +5,7 @@ function Skills() {
         <div className="skills-container">
         <h2>My Skills</h2>
         <p>
-        I am actively learning and in process of acquiring more and more....
+          24/7 learning and growing.......
         </p>
         <div className="skills-grid">
           <div className="skills-column">
