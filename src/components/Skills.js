@@ -9,9 +9,9 @@ function Skills() {
         </p>
         <div className="skills-grid">
           <div className="skills-column">
-            <h4>Programming Languages</h4>
+            <h4> Skills</h4>
             <div className="skill-item">
-              <span>Java</span>
+              <span>Robotics</span>
               <div className="skill-stars">
                 <span className="star">&#9733;</span>
                 <span className="star">&#9733;</span>
@@ -21,7 +21,40 @@ function Skills() {
               </div>
             </div>
             <div className="skill-item">
+              <span>Aviation</span>
+              <div className="skill-stars">
+                <span className="star">&#9733;</span>
+                <span className="star">&#9733;</span>
+                <span className="star">&#9733;</span>
+                <span className="star">&#9733;</span>
+                <span className="star">&#9734;</span>
+              </div>
+            </div>
+            <div className="skill-item">
+              <span>Design</span>
+              <div className="skill-stars">
+                <span className="star">&#9733;</span>
+                <span className="star">&#9733;</span>
+                <span className="star">&#9733;</span>
+                <span className="star">&#9734;</span>
+                <span className="star">&#9734;</span>
+              </div>
+            </div>
+          </div>
+          <div className="skills-column">
+            <h4>Languages</h4>
+            <div className="skill-item">
               <span>Python</span>
+              <div className="skill-stars">
+                <span className="star">&#9733;</span>
+                <span className="star">&#9733;</span>
+                <span className="star">&#9733;</span>
+                <span className="star">&#9734;</span>
+                <span className="star">&#9734;</span>
+              </div>
+            </div>
+            <div className="skill-item">
+              <span>Java</span>
               <div className="skill-stars">
                 <span className="star">&#9733;</span>
                 <span className="star">&#9733;</span>
@@ -42,42 +75,9 @@ function Skills() {
             </div>
           </div>
           <div className="skills-column">
-            <h4>Frameworks & Libraries</h4>
-            <div className="skill-item">
-              <span>React</span>
-              <div className="skill-stars">
-                <span className="star">&#9733;</span>
-                <span className="star">&#9733;</span>
-                <span className="star">&#9733;</span>
-                <span className="star">&#9734;</span>
-                <span className="star">&#9734;</span>
-              </div>
-            </div>
-            <div className="skill-item">
-              <span>Django</span>
-              <div className="skill-stars">
-                <span className="star">&#9733;</span>
-                <span className="star">&#9733;</span>
-                <span className="star">&#9733;</span>
-                <span className="star">&#9733;</span>
-                <span className="star">&#9734;</span>
-              </div>
-            </div>
-            <div className="skill-item">
-              <span>Node.js</span>
-              <div className="skill-stars">
-                <span className="star">&#9733;</span>
-                <span className="star">&#9733;</span>
-                <span className="star">&#9733;</span>
-                <span className="star">&#9734;</span>
-                <span className="star">&#9734;</span>
-              </div>
-            </div>
-          </div>
-          <div className="skills-column">
             <h4>Soft Skills</h4>
             <div className="skill-item">
-              <span>Problem-Solving</span>
+              <span>Marketing</span>
               <div className="skill-stars">
                 <span className="star">&#9733;</span>
                 <span className="star">&#9733;</span>
@@ -97,7 +97,7 @@ function Skills() {
               </div>
             </div>
             <div className="skill-item">
-              <span>Collaboration</span>
+              <span>Team management</span>
               <div className="skill-stars">
                 <span className="star">&#9733;</span>
                 <span className="star">&#9733;</span>
